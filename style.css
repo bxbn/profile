@@ -1,0 +1,76 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700")
+
+ /*<link href="style.css" type="text/css" rel="stylesheet">*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #DF7599;
+  font-size: 20px;
+  background-color: white;
+  line-height: 80px;
+  }
+
+
+  .purple {
+  color: #7189BF;
+}
+
+  .pink {
+  color: #DF7599;
+}
+
+.teal {
+  color: #72D6C9;
+}
+
+.orange {
+color: #FFC785;
+}
+
+h1, h2, h3 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+  color : #7189BF;
+  line-height: 50px;
+}
+
+a {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  color : #7189BF;
+}
+
+/*a:hover
+*/
+.container {
+  width: 500;
+  text-align: center;
+  /*border: 3px solid rgb(22, 77, 100);*/
+  /*box-shadow:  0 0 0 3px rgba(52,144,220,0.5);*/
+}
+.profile-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+.bold {
+  font-weight: bold;
+}
+
+.list-inline {
+ list-style: none;
+ padding: 0;
+}
+
+.list-inline > li {
+ display: inline-block;
+ font-size: 50px;
+ margin: 0 10px;
+}
+
+   /* if you want the light version } */
+
